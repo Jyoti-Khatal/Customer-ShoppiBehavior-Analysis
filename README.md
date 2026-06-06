@@ -1,9 +1,9 @@
 # Customer-Behavior-Analysis
-#Project Overview
+**#Project Overview**
 
 An end-to-end Data Analytics project analyzing customer shopping behavior using Python, PostgreSQL, and Power BI. The project focuses on understanding customer segments, purchasing patterns, product performance, and revenue drivers to generate actionable business insights.
 
-#Tech Stack
+**#Tech Stack**
 
 Python (Pandas, NumPy) – Data Cleaning & Feature Engineering
 
@@ -13,7 +13,7 @@ Power BI – Interactive Dashboard Development
 
 SQLAlchemy – Data Loading & Integration
 
-#Dataset Summary
+**#Dataset Summary**
 
 3,900 Customer Records
 
@@ -21,7 +21,7 @@ SQLAlchemy – Data Loading & Integration
 
 Includes customer demographics, purchase behavior, subscriptions, shipping preferences, ratings, and transaction history.
 
-#Data Preparation
+**#Data Preparation**
 
 Handled missing values in review ratings using category-wise median imputation.
 
@@ -33,7 +33,7 @@ Converted purchase frequency into numerical values.
 
 Removed redundant features to improve data quality.
 
-#Business Analysis Highlights
+**#Business Analysis Highlights**
 
 Clothing generated the highest revenue and sales volume.
 
@@ -45,7 +45,7 @@ Subscription members showed similar spending behavior to non-subscribers.
 
 Products like Hats, Sneakers, and Coats had the highest discount adoption rates.
 
-#Power BI Dashboard
+**#Power BI Dashboard**
 
 The dashboard provides interactive analysis of:
 
@@ -61,7 +61,7 @@ Subscription Status Analysis
 
 Customer Segmentation
 
-#Business Recommendations
+**#Business Recommendations**
 
 Focus marketing efforts on the Young Adult segment.
 
