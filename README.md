@@ -61,8 +61,11 @@ Subscription Status Analysis
 
 Customer Segmentation
 
-Business Recommendations
+#Business Recommendations
+
 Focus marketing efforts on the Young Adult segment.
+
 Strengthen subscription benefits to improve customer engagement.
+
 Expand high-performing clothing product lines.
 Implement loyalty programs to retain repeat customers.
